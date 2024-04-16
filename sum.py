@@ -6,4 +6,4 @@ num2 = 20
 sum_result = num1 + num2
 
 # Print the sum (optional)
-print("The sum of", num1, "and", num2, "is:", sum_result)
+print("You're awesome, and the sum of", num1, "and", num2, "is:", sum_result)
